@@ -37,3 +37,11 @@ If your not use laravel and composer, you can commit lines with this commands.
 ## Usage:
 
 Copy your php code to "app" folder or use symlink to this folder from your php project.
+
+Use all commands for laravel whth preffix ``docker exec -it php74``.
+
+Examples:
+
+``docker exec -it php74 php -v``
+
+``docker exec -it php74 php -m``
